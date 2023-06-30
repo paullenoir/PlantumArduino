@@ -23,7 +23,7 @@ local de travail → 200 - 3000 lux
 stade de nuit → 150 - 1500 lux
 exterieur ciel couvert → 500 - 25 000 lux
 extérieur plein soeil → 50 000 - 100 000 lux
-![[image]](https://github.com/paullenoir/PlantumArduino/blob/test/Images/Photoresistanceconnection.JPG) 
+![[image]](https://github.com/paullenoir/PlantumArduino/blob/test/Images/Photoresistanceconnection.jpg) 
 
 ## Test
 https://thingspeak.com/
